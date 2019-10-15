@@ -150,8 +150,10 @@
             // 
             // richTextBoxRefrigerator
             // 
-            this.richTextBoxRefrigerator.Location = new System.Drawing.Point(327, 349);
+            this.richTextBoxRefrigerator.Location = new System.Drawing.Point(358, 345);
+            this.richTextBoxRefrigerator.Multiline = false;
             this.richTextBoxRefrigerator.Name = "richTextBoxRefrigerator";
+            this.richTextBoxRefrigerator.ReadOnly = true;
             this.richTextBoxRefrigerator.Size = new System.Drawing.Size(482, 233);
             this.richTextBoxRefrigerator.TabIndex = 8;
             this.richTextBoxRefrigerator.Text = "";
