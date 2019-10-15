@@ -47,7 +47,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(211, 36);
+            this.label1.Location = new System.Drawing.Point(230, 43);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(325, 29);
             this.label1.TabIndex = 0;
@@ -55,14 +55,14 @@
             // 
             // textBoxMaximumWeight
             // 
-            this.textBoxMaximumWeight.Location = new System.Drawing.Point(581, 36);
+            this.textBoxMaximumWeight.Location = new System.Drawing.Point(600, 43);
             this.textBoxMaximumWeight.Name = "textBoxMaximumWeight";
             this.textBoxMaximumWeight.Size = new System.Drawing.Size(259, 26);
             this.textBoxMaximumWeight.TabIndex = 1;
             // 
             // ButtonSave
             // 
-            this.ButtonSave.Location = new System.Drawing.Point(900, 30);
+            this.ButtonSave.Location = new System.Drawing.Point(919, 37);
             this.ButtonSave.Name = "ButtonSave";
             this.ButtonSave.Size = new System.Drawing.Size(87, 32);
             this.ButtonSave.TabIndex = 2;
@@ -74,7 +74,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(144, 160);
+            this.label2.Location = new System.Drawing.Point(163, 167);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(146, 29);
             this.label2.TabIndex = 0;
@@ -82,7 +82,7 @@
             // 
             // textBoxNoOfItems
             // 
-            this.textBoxNoOfItems.Location = new System.Drawing.Point(339, 160);
+            this.textBoxNoOfItems.Location = new System.Drawing.Point(358, 167);
             this.textBoxNoOfItems.Name = "textBoxNoOfItems";
             this.textBoxNoOfItems.Size = new System.Drawing.Size(130, 26);
             this.textBoxNoOfItems.TabIndex = 3;
@@ -91,7 +91,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(502, 156);
+            this.label3.Location = new System.Drawing.Point(521, 163);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(189, 29);
             this.label3.TabIndex = 0;
@@ -99,14 +99,14 @@
             // 
             // textBoxWeightPerUnit
             // 
-            this.textBoxWeightPerUnit.Location = new System.Drawing.Point(726, 156);
+            this.textBoxWeightPerUnit.Location = new System.Drawing.Point(745, 163);
             this.textBoxWeightPerUnit.Name = "textBoxWeightPerUnit";
             this.textBoxWeightPerUnit.Size = new System.Drawing.Size(130, 26);
             this.textBoxWeightPerUnit.TabIndex = 4;
             // 
             // ButtonEnter
             // 
-            this.ButtonEnter.Location = new System.Drawing.Point(900, 153);
+            this.ButtonEnter.Location = new System.Drawing.Point(919, 160);
             this.ButtonEnter.Name = "ButtonEnter";
             this.ButtonEnter.Size = new System.Drawing.Size(96, 33);
             this.ButtonEnter.TabIndex = 5;
@@ -118,7 +118,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(144, 264);
+            this.label4.Location = new System.Drawing.Point(163, 271);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(173, 29);
             this.label4.TabIndex = 0;
@@ -128,7 +128,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(502, 260);
+            this.label5.Location = new System.Drawing.Point(521, 267);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(210, 29);
             this.label5.TabIndex = 0;
@@ -136,23 +136,23 @@
             // 
             // textBoxCurrentWeight
             // 
-            this.textBoxCurrentWeight.Location = new System.Drawing.Point(339, 264);
+            this.textBoxCurrentWeight.Location = new System.Drawing.Point(358, 271);
             this.textBoxCurrentWeight.Name = "textBoxCurrentWeight";
             this.textBoxCurrentWeight.Size = new System.Drawing.Size(130, 26);
             this.textBoxCurrentWeight.TabIndex = 6;
             // 
             // textBoxRemainingWeight
             // 
-            this.textBoxRemainingWeight.Location = new System.Drawing.Point(726, 260);
+            this.textBoxRemainingWeight.Location = new System.Drawing.Point(745, 267);
             this.textBoxRemainingWeight.Name = "textBoxRemainingWeight";
             this.textBoxRemainingWeight.Size = new System.Drawing.Size(130, 26);
             this.textBoxRemainingWeight.TabIndex = 7;
             // 
             // richTextBoxRefrigerator
             // 
-            this.richTextBoxRefrigerator.Location = new System.Drawing.Point(355, 364);
+            this.richTextBoxRefrigerator.Location = new System.Drawing.Point(327, 349);
             this.richTextBoxRefrigerator.Name = "richTextBoxRefrigerator";
-            this.richTextBoxRefrigerator.Size = new System.Drawing.Size(437, 228);
+            this.richTextBoxRefrigerator.Size = new System.Drawing.Size(482, 233);
             this.richTextBoxRefrigerator.TabIndex = 8;
             this.richTextBoxRefrigerator.Text = "";
             // 

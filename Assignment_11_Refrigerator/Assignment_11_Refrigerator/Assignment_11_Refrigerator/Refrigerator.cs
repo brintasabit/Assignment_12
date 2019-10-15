@@ -30,7 +30,7 @@ namespace Assignment_11_Refrigerator
             get => weightTotal;
             set => weightTotal = value;
         }
-        
+
         public int Item
         {
             get => item;
